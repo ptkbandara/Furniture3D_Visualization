@@ -1,4 +1,4 @@
-# Furniture3D_Visualization
+# Furniture3D_Visualizer
 A web-based interactive 2D/3D spatial visualization tool for furniture retailers, built with the MERN stack and Three.js.
 ## 📌 Project Overview
 **Furniture 3D** is a web-based interactive software application developed for modern furniture retailers. Designed to be used by in-store designers during client consultations, it bridges the gap between imagination and reality. The application allows users to configure accurate room dimensions, plan layouts using an intuitive 2D drag-and-drop interface, and instantly generate a highly realistic 3D spatial visualization.
@@ -26,5 +26,5 @@ Make sure you have Node.js and MongoDB installed on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/furniture3D_Visualization.git](https://github.com/YOUR_USERNAME/furniture3D_Visualization.git)
-cd furniture3D_Visualization  
+git clone [https://github.com/YOUR_USERNAME/furniture3D_Visualizer.git](https://github.com/YOUR_USERNAME/furniture3D_Visualizer.git)
+cd furniture3D_Visualizer  
